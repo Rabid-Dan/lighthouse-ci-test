@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :fruits
+  resources :posts
   ##
   # Workaround a "bug" in lighthouse CLI
   #
