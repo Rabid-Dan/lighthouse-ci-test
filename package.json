@@ -2,6 +2,7 @@
   "name": "lighthouse_ci_test",
   "private": true,
   "dependencies": {
+    "@lhci/cli": "0.4.x",
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
     "@rails/ujs": "^6.0.0",
