@@ -4,11 +4,6 @@
 
 ## Purpose
 
-    TODO: Aim to answer these questions here:
-        * Why does this application exist?
-        * Is it an API or serve HTML or something different?
-        * How much traffic is it expected to get?
-
 ## Operations:
 
 This project follows
